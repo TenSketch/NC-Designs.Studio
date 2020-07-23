@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://ncdesigns.netlify.app/* https://www.ncdesigns.studio/:splat 301!
