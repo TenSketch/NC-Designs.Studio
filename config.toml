@@ -1,6 +1,6 @@
 baseURL = "https://www.ncdesigns.studio/"
 languageCode = "en"
-title = "NC Designs.Studio | Freelance Creative Director"
+title = "NC Designs.Studio | Creative Director"
 theme = "graphic_designer-hugo-theme"
 [params]
 description = "NC Designs.Studio specializes in logo designing, posters and banner designing, promotional videos, videos advertising, marketing, branding, promotions, concept designing, web layout designing, social media marketing,"
